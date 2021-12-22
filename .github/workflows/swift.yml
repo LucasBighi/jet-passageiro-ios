@@ -37,4 +37,3 @@ jobs:
           APPLE_KEY_ID: '${{ secrets.APPLE_KEY_ID }}'
           APPLE_ISSUER_ID: '${{ secrets.APPLE_ISSUER_ID }}'
           APPLE_KEY_CONTENT: '${{ secrets.APPLE_KEY_CONTENT }}'
-view rawcd.yml hosted with ❤ by GitHub
