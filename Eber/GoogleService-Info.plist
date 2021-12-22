@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>72929194809-5ibaidijg7jhv8la9362v05s6esbltjv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.72929194809-5ibaidijg7jhv8la9362v05s6esbltjv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>72929194809-dna9uun8emt39n73oefefic702jtqr74.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-cMib4nogsubTnGtfgCGxY1r2qex-U8I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>72929194809</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jet.passageiro</string>
+	<key>PROJECT_ID</key>
+	<string>vadejet-8d50a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vadejet-8d50a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:72929194809:ios:43eff52c75882032d7eee8</string>
+	<key>DATABASE_URL</key>
+	<string>https://vadejet-8d50a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ub__button_centerlocation_normal.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ub__button_centerlocation_normal-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ub__button_centerlocation_normal-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

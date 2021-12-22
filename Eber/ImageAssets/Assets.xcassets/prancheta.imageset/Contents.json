@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Aplicativo JET_Prancheta 1 cópia@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Aplicativo JET_Prancheta 1 cópia@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Aplicativo JET_Prancheta 1 cópia@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

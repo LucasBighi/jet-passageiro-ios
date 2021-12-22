@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CustomPhotoDialog" customModule="Edelivery" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Gk2-v8-irM">
+                    <rect key="frame" x="9.5" y="273.5" width="356.5" height="120"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="Choose Picture" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uG8-D4-AKO">
+                            <rect key="frame" x="10" y="10" width="336.5" height="20"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="751" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fdg-dA-TWl">
+                            <rect key="frame" x="10" y="40" width="336.5" height="30"/>
+                            <state key="normal" title="CANCEL">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="onClickBtnLeft:" destination="iN0-l3-epB" eventType="touchUpInside" id="6vg-wc-fB8"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cIP-IY-ZxI">
+                            <rect key="frame" x="10" y="80" width="336.5" height="30"/>
+                            <state key="normal" title="OK">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="onClickBtnRight:" destination="iN0-l3-epB" eventType="touchUpInside" id="3yq-6W-2n7"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="uG8-D4-AKO" firstAttribute="leading" secondItem="Gk2-v8-irM" secondAttribute="leading" constant="10" id="02D-DQ-qO9"/>
+                        <constraint firstAttribute="trailing" secondItem="uG8-D4-AKO" secondAttribute="trailing" constant="10" id="2YK-Lo-qFT"/>
+                        <constraint firstItem="cIP-IY-ZxI" firstAttribute="width" secondItem="fdg-dA-TWl" secondAttribute="width" id="7yn-Kp-TjY"/>
+                        <constraint firstItem="cIP-IY-ZxI" firstAttribute="leading" secondItem="fdg-dA-TWl" secondAttribute="leading" id="JU9-uj-BZl"/>
+                        <constraint firstItem="cIP-IY-ZxI" firstAttribute="top" secondItem="fdg-dA-TWl" secondAttribute="bottom" constant="10" id="Rab-yf-3xh"/>
+                        <constraint firstAttribute="bottom" secondItem="cIP-IY-ZxI" secondAttribute="bottom" constant="10" id="T5g-5G-J6L"/>
+                        <constraint firstItem="uG8-D4-AKO" firstAttribute="top" secondItem="Gk2-v8-irM" secondAttribute="top" constant="10" id="WaV-Qc-CNm"/>
+                        <constraint firstItem="cIP-IY-ZxI" firstAttribute="height" secondItem="fdg-dA-TWl" secondAttribute="height" id="bpy-t9-64j"/>
+                        <constraint firstItem="fdg-dA-TWl" firstAttribute="leading" secondItem="Gk2-v8-irM" secondAttribute="leading" constant="10" id="fix-M9-SY7"/>
+                        <constraint firstItem="fdg-dA-TWl" firstAttribute="top" secondItem="uG8-D4-AKO" secondAttribute="bottom" constant="10" id="mzL-TY-FRn"/>
+                        <constraint firstAttribute="trailing" secondItem="fdg-dA-TWl" secondAttribute="trailing" constant="10" id="npp-W0-Hbz"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.24614762931034484" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Gk2-v8-irM" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="BuC-k3-p66"/>
+                <constraint firstItem="Gk2-v8-irM" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="hN4-L9-z6J"/>
+                <constraint firstItem="Gk2-v8-irM" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" multiplier="0.95" id="itF-fl-9tP"/>
+            </constraints>
+            <connections>
+                <outlet property="alertView" destination="Gk2-v8-irM" id="1MU-cZ-MDo"/>
+                <outlet property="btnLeft" destination="fdg-dA-TWl" id="t1o-Vq-Lbv"/>
+                <outlet property="btnRight" destination="cIP-IY-ZxI" id="91P-5T-hCB"/>
+                <outlet property="lblTitle" destination="uG8-D4-AKO" id="Q6B-MX-2Bp"/>
+            </connections>
+            <point key="canvasLocation" x="23.5" y="51.5"/>
+        </view>
+    </objects>
+</document>

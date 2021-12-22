@@ -1,0 +1,648 @@
+//MARK : - PUSH MESSAGES
+
+"203"= "O motorista aceitou sua viagem.";
+"200"= "O motorista está a caminho.";
+"204"= "O motorista chegou.";
+"206"= "Sua viagem começou.";
+"209"= "Sua viagem terminou.";
+"213"= "Motorista não disponível nesse momento.";
+"214" = "Sua viagem foi cancelada pelo motorista";
+"240" ="Sua viagem terminou com sucesso.";
+"217" = "Motorista terminou viagem";
+
+"215" = "O seu cadastro foi aprovado pela Moby App ";
+"216" = "O seu cadastro foi recusado, vamos ligar pra você";
+"220" ="Entrar por outro dispositivo.";
+"231" = " Pedido corporativo";
+
+
+
+"TXT_TRIP_CANCELLED_BY_PROVIDER" = "Sua viagem foi cancelada pelo usuário";
+
+//MARK: - Common Texts
+
+"TXT_YES" = "Sim";
+"TXT_NO" = "Não";
+
+"TXT_CANCEL" = "Cancelar";
+"TXT_OK" = "Ok";
+
+"TXT_APPLY"="Aplicar";
+"TXT_RESET"="Resetar";
+
+
+"TXT_DELETE" = "Deletar";
+"TXT_SAVE" = "Salvar";
+"TXT_EDIT" = "Editar";
+"TXT_UPDATE"="Atualizar";
+"TXT_SELECT" = "Selecionar";
+"TXT_SKIP" = "Pular";
+"TXT_EXIT" = "Sair";
+"TXT_DONE"="Pronto";
+
+"TXT_GALLERY" = "Galeria";
+"TXT_CAMERA" = "Câmera";
+
+"TXT_RETRY"="Tentar novamente";
+
+
+
+"TXT_SUBMIT"="Enviar";
+"TXT_ERROR"="Erro";
+"TXT_CONFIRM" = "Confirmar";
+"TXT_CANCEL_TRIP" = "Cancelar viagem";
+"TXT_CANCELLATION_CHARGE_MESSAGE" = "Taxas de cancelamento podem ser aplicadas";
+"TXT_CONNECTING_NEAR_BY_DRIVER" = "Conectando à um motorista próximo";
+
+"PLACE_HOLDER_ENTER_MESSAGE" = "Insira mensagem";
+"TXT_CHAT_WITH" = "Conversar com ";
+"TXT_CHAT" = "Chat";
+"TXT_READ" = "Ler";
+"TXT_APP_VERSION" = "Versão de aplicativo";
+
+
+//MARK:- Dialogs
+
+
+
+
+"TXT_PUSH_ENABLE" = "Passageiro Moby App gostaria de lhe enviar uma notificação";
+"MSG_PUSH_ENABLE" = "Passageiro Moby App gostaria de lhe enviar uma notificação";
+
+
+"TXT_APPLY_PROMO" = "Aplicar promoção";
+"TXT_ENTER_PROMO" = "Inserir código promocional";
+"MSG_PLEASE_ENTER_VALID_PROMOCODE" = "Código promocional inválido";
+
+
+
+"TXT_INTERNET"="Internet";
+"TXT_LOCATION_SERVICE"="Serviço local";
+"MSG_INTERNET_ENABLE"="Sua internet parece estar desativada. Por favor, ative-a.";
+"ALERT_MSG_LOCATION_SERVICE_NOT_AVAILABLE"="1. Vá para configurações > Privacidade > Serviços locais. \n 2. Certifique-se de que os serviços locais estejam ativados.";
+
+
+"TXT_ATTENTION"="Aviso";
+"TXT_ADMIN_ALERT" = "Alerta de administrador!";
+"MSG_SERVER_ERROR"="Problemas ao tentar baixar dados do servidor. Por favor, reinicie seu aplicativo ou tente depois.";
+"MSG_UPDATE_APP"= "Uma atualização com melhorias de funções e performance está disponível.";
+"TXT_CAMERA" = "Câmera";
+"TXT_GALLERY" = "Galeria";
+"TXT_SELECT_IMAGE" = "Selecione uma imagem";
+"MSG_APPROVE_ERROR"="Você não foi aprovado. Por favor, contate um administrador.";
+"TXT_STRIPE_KEY_ERROR" = "Chave de acesso não recebida";
+
+
+"TXT_LOGOUT"="Sair";
+"MSG_LOGOUT"="Tem certeza que deseja sair?";
+
+"TXT_DELETE_CARD"="Deletar cartão";
+"MSG_ARE_YOU_SURE"="Você tem certeza?";
+
+"TXT_CORPORATE_REQUEST" = "Pedido corporativo";
+"TXT_CORPORATE_REQUEST_MESSAGE" = "Mensagem de pedido corporativo";
+"TXT_PAY_BY_CORPORATE" = "Você gostaria de pagar através da corporação";
+
+
+
+
+
+"TXT_VERIFY_ACCOUNT" = "Verificar conta";
+"TXT_YOUR_RATING" = "Sua classificação";
+
+"TXT_NOW" = "Agora";
+"TXT_RENTAL" = "Alugar";
+"TXT_SELECT_PACKAGE" = "Selecionar pacote";
+"TXT_DEFAULT" = "Padrão";
+"TXT_RENT_NOW" = "Alugar agora";
+
+
+"TXT_EXTRA_DISTANCE_CHARGE" = "Cobrança extra por distância";
+"TXT_EXTRA_TIME_CHARGE" = "Cobrança extra por tempo";
+"TXT_PACKAGES" = "Selecionar pacote";
+
+
+
+//MARK:- Country Dialog
+"TXT_SELECT_COUNTRY" = "Selecionar país";
+"TXT_SEARCH_COUNTRY" = "Procurar país";
+
+//MARK: Cancel Trip Dialog
+"TXT_CANCELLATION_CHARGE_APPLY" = "Taxas de cancelamento podem ser aplicadas";
+"TXT_CANCEL_TRIP_REASON" = "Motivo do cancelamento";
+"TXT_CANCEL_TRIP_REASON1" = "Não consegui me conectar com meu motorista.";
+"TXT_CANCEL_TRIP_REASON2" = "Endereço ou local errado.";
+"TXT_CANCEL_TRIP_REASON3" = "O eta foi muito longo.";
+"TXT_OTHER" = "Outro";
+
+
+//MARK:- Intro VC
+
+"TXT_PICKUP_ADDRESS_PLACE_HOLDER" = "Insira local de partida";
+"TXT_DESTINATION_ADDRESS_PLACE_HOLDER" = "Insira local de destino";
+
+
+"TXT_INTRO_MSG" =  "Movimente-se com a Moby App Passageiro";
+"TXT_PHONE_NO" = "Número de telefone";
+"TXT_CLOSE" = "Fechar";
+
+//MARK:- Phone VC
+"TXT_MOBILE_MSG" =  "Digite seu número de celular";
+//MARK:- Password VC
+"TXT_SIGN_IN_MSG" = "Bem-vindo de volta, entre para continuar";
+"TXT_PASSWORD" = "Senha";
+"TXT_FORGOT_PASSWORD" = "Esqueceu sua senha?";
+
+//MARK:- Forgot Password VC
+"TXT_FORGOT_PASSWORD_MSG" = "Insira o endereço de email ou telefone que você usou para se registrar";
+"TXT_EMAIL" = "Email";
+
+
+//MARK:- New Password VC
+"TXT_NEW_PASSWORD_MSG" = "Bem-vindo. Insira sua senha.";
+
+//MARK:- Register VC
+"TXT_REGISTER_MSG" = "Confirme seus dados";
+"TXT_FIRST_NAME" = "Nome";
+"TXT_LAST_NAME" = "Sobrenome";
+"TXT_CONDITIONING_TEXT" = "Ao continuar, confirmo que li e concordo com o";
+"TXT_PRIVACY_POLICY" = "Política de Privacidade.";
+"TXT_TERMS_CONDITIONS"="Termos & Condições";
+"TXT_AND" = "and";
+
+//MARK:- Referral VC
+"TXT_ENTER_REFERRAL_CODE" = "Insira código de desconto";
+"TXT_REFERRAL_ERROR_MSG" = "";
+"TXT_REFERRAL_MSG" = "Você pode adicionar um código de desconto fornecido por um amigo para ganhar créditos. Se você não tem um ou não deseja inseri-lo, basta clicar em próximo.";
+
+
+//MARK:- OTP VC
+
+"TXT_OTP_MSG" = "Digite o código de 6 dígitos enviado para você em ";
+"TXT_DID_YOU_ENTER_CORRECT_MOBILE_NUMBER" = "Você digitou o número correto de celular?";
+"TXT_ENTER_OTP" = "Insira o código de segurança";
+"TXT_RESEND_CODE" = "Reenviar código";
+"TXT_RESEND_CODE_IN" = "Reenviar código em: ";
+
+
+//MARK:- MAPVC
+"TXT_WHERE_TO_GO" = "Para aonde vamos?";
+"TXT_PICKUP_ADDRESS" ="Endereço de partida";
+"TXT_DESTINATION_ADDRESS" ="Endereço de destino";
+"TXT_NO_SERVICE_AVAILABLE_IN_THIS_AREA" = "Serviço indisponível nesta área";
+"TXT_SORRY" = "Desculpe!";
+"TXT_ADD_PAYMENT" = "Adicionar pagamento";
+"TXT_ETA" = "Chegada";
+"TXT_FARE_ESTIMATE" = "Estimativa de tarifa";
+"TXT_CASH" = "Dinheiro";
+"TXT_CARD" = "Cartão";
+
+
+
+"TXT_ACCESSIBILITY" = "Preferência de acessibilidade";
+"TXT_REQUEST_PROVIDER_GENDER" = "Qual motorista você deseja solicitar?";
+"TXT_MALE" = "Homem";
+"TXT_FEMALE" = "Mulher";
+"TXT_SELECT_LANGUAGE" = "Selecione o idioma";
+"TXT_HOTSPOT" = "Wifi";
+"TXT_BABY_SEAT" = "Cadeirinha para Crianças";
+"TXT_HANDICAP" = "Deficiente Físico";
+
+"TXT_SET_LOCATION_ON_MAP" = "Inserir local no mapa";
+"TXT_ADD_DESTINATION_LATER" = "Inserir destino depois";
+
+"TXT_PERSON" = "Pessoa";
+"TXT_SURGE_PRICE_MESSAGE" = "Em momentos de demanda intensa, nossas taxas mudam para manter veículos disponíveis.";
+
+"TXT_FIXED_RATE_AVAILABLE" = "Tarifa fixa disponível";
+"MSG_FIXED_RATE_DIALOG" = "Você quer ir com o preço fixo? Caso contrário, use o preço da tarifa.";
+"TXT_USER_WALLET" = "Usar carteira";
+
+
+
+
+//MARK:- Tarifa estimada
+"TXT_BASE_FARE" = "Tarifa base";
+"TXT_DISTANCE_FARE" = "Tarifa por distância";
+"TXT_TIME_FARE" = "Tarifa por tempo";
+"TXT_MAX_SIZE" = "Tamanho máximo";
+"TXT_TAX_FARE" = "Taxa";
+"TXT_CANCELLATION_FARE" = "Taxa de Cancelamento ";
+"TXT_FARE_ESTIMATE_MSG" = "Este é apenas um tempo estimado. Tarifas reais podem variar com base no tráfego ou descontos.";
+"TXT_FARE_ESTIMATE_MSG_FIXED_RATE" = "Este é apenas um tempo estimado.";
+"TXT_FIXED_RATE" = "Tarifa fixa";
+"TXT_TIME" = "Tempo";
+"TXT_DISTANCE" = "Distância";
+"TXT_SURGE_FARE" = "Preço dinâmico";
+"TXT_MIN_FARE" = "Tarifa mínima";
+
+//MARK:- MenuVC
+
+"TXT_PROFILE" = "Perfil";
+"TXT_PAYMENTS" = "Pagamento";
+"TXT_MY_BOOKINGS" = "Minhas Reservas";
+"TXT_HISTORY" = "Histórico";
+"TXT_REFERRAL" = "Desconto";
+"TXT_CONTACT_US" = "Contato";
+"TXT_DOCUMENTS" = "Documentos";
+
+
+//MARK:- Contact Us VC
+"TXT_CONTACT_US_MSG" = "Obrigado por escolher Moby App Passageiro";
+
+//MARK:- Setting VC
+"TXT_SETTINGS" = "Configurações";
+"TXT_LANGUAGE" = "Idioma";
+"TXT_EMERGENCY_CONTACTS" = "Contatos de emergência";
+"TXT_SHARE_YOUR_RIDE" = "Compartilhe sua viagem";
+"TXT_SOUND_ALERT" = "Som de notificação";
+"TXT_SOUND_ALERT_MESSAGE" = "Notificação sonora quando o motorista mudar o status durante a viagem.";
+"TXT_ARRIVED_ALERT" = "Som de notificação para chegada do motorista";
+"TXT_ARRIVED_ALERT_MESSAGE" = "Reproduz som quando motorista chegar";
+"TXT_PUSH_NOTIFICATION" = "Notificação";
+"TXT_PUSH_NOTIFICATION_SOUND_MESSAGE" = "Reproduz som quando receber notificações.";
+
+
+//MARK:- Profile VC
+"TXT_ADDRESS" = "Endereço";
+"TXT_CHANGE" = "Mudar";
+"TXT_NEW_PASSWORD" = "Nova senha";
+"TXT_ADD" = "Adicionar";
+
+//MARK:- History VC
+"TXT_SELECT_FROM_DATE" = "Selecionar data de";
+"TXT_SELECT_TO_DATE" = "Selecionar data até";
+"TXT_FROM" = "De";
+"TXT_TO" = "Até";
+"TXT_YESTERDAY" = "Ontem";
+"TXT_TODAY" = "Hoje";
+"TXT_WARNING" = "Erro";
+"MSG_INVALID_DATE_WARNING" = "Por favor, selecione primeiro uma data";
+"TXT_INVOICE" = "Fatura";
+"TXT_CANCELLED_TRIP" = "Viagem cancelada";
+"TXT_TRIP_ID" = "Número da viagem : ";
+"TXT_RIDE_NOW" = "Solicitar Motorista";
+"TXT_RATE_DRIVER" = "Avalie o motorista";
+
+//MARK:- Payments
+
+"TXT_ADD_CARD" = "Adicionar cartão";
+"TXT_CREDIT_CARD" = "Cartão de crédito";
+
+"TXT_PAYMENT_MESSAGE" = "Viaje com Moby App Passageiro e receba créditos que você pode utilizar na sua próxima viagem.";
+"TXT_NO_CREDIT_CARD" = "Nenhum cartão de crédito adicionado.";
+
+
+"TXT_CARDS" = "Cartões";
+
+"TXT_CVV" = "Código de segurança";
+"TXT_MM_YY" = "mm/aa";
+"TXT_CREDIT_CARD_NUMBER" = "Número do cartão";
+"TXT_CARD_HOLDER_NAME" = "Nome impresso no cartão";
+"TXT_CARD_MSG" = "Apenas Visa e Master card e\nsão aceitos";
+
+//MARK:- My Booking
+
+
+//MARK:- Share Referral
+"TXT_SHARE_REFERRAL_CODE" = "Compartilhar código de desconto.";
+"TXT_SHARE_REFERRAL_MSG" = "Compartilhe seu código de desconto com amigos e ganhe créditos de desconto extras.";
+"TXT_YOUR_REFERRAL_CODE" = "Seu código de desconto";
+"TXT_YOUR_REFERRAL_CREDIT" = "Valor Ganho";
+"MSG_SHARE_REFERRAL" = "Moby App Passageiro usou meu código de desconto: ";
+
+//MARK:- Trip VC
+"TXT_HAVE_PROMO_CODE" = "Possui código promocional?";
+"TXT_CAR_ID" = "ID do Carro";
+"TXT_PLATE_NO" = "Placa Nº";
+"TXT_TRIP_NO" = "Número da Viagem";
+"TXT_CALL" = "Chamar";
+"TXT_CANCEL_TRIP" = "Cancelar viagem";
+"TXT_SOS" = "SOS";
+"TXT_PROMO_APPLIED" = "Promoção aplicada (Toque para remover)";
+"TXT_TOTAL_TIME" = "Tempo total";
+"TXT_TOTAL_DISTANCE" = "Distância total";
+"TXT_SEND" = "Enviar";
+"TXT_WAITING_TIME_START_AFTER" = "A taxa de espera será aplicada depois.";
+"TXT_TOTAL_WAITING_TIME"  = "Tempo total de espera: ";
+
+"TRIP_STATUS_ACCEPTED" = "Viagem aceita";
+"TRIP_STATUS_COMING" = "O motorista está chegando na sua localização";
+"TRIP_STATUS_ARRIVED" = "O motorista chegou na sua localização";
+"TRIP_STATUS_STARTED" = "Viagem começou";
+"TRIP_STATUS_END" = "Viagem completada";
+"TRIP_STATUS_COMPLETED" = "";
+//MARK:- Invoice VC
+"TXT_FIXED_FARE_TRIP" = "Viagem de tarifa fixa.";
+"TXT_AIRPORT_TRIP" = "Viagem ao aeroporto";
+"TXT_ZONE_TRIP" = "Viagem pela área";
+"TXT_CITY_TRIP" = "Viagem pela cidade";
+
+"TXT_FIXED_RATE" = "Tarifa Fixa.";
+"TXT_TIP" = "Gorjeta";
+"TXT_TOLL" = "Pedágio";
+"TXT_DISTANCE_PRICE" = "Distância";
+"TXT_TIME_PRICE" = "Tempo";
+"TXT_WAIT_TIME_COST" = "Tempo de Espera";
+"TXT_USER_CITY_TAX" = "Imposto Passageiro";
+"TXT_PROVIDER_CITY_TAX" = "Taxa da Moby App";
+"TXT_PROVIDER_MISCELLANEOUS_TAX" = "(ISS) e Demais Impostos";
+"TXT_USER_MISCELLANEOUS_TAX" = "Taxa diversa do passageiro";
+
+"TXT_PAID_BY_CASH" = "Pago em dinheiro";
+"TXT_PAID_BY_CARD" = "Pago em cartão";
+"TXT_PAID_BY_WALLET" = "Pago pela carteira";
+"TXT_REMAINING_TO_PAY" = "Restante a pagar";
+"TXT_TOTAL" = "Total";
+"TXT_DISCOUNT" ="Desconto";
+"TXT_PROMO_BONUS" = "Bônus promocional";
+"TXT_REFERRAL_BONUS" = "Bônus de desconto";
+"TXT_TAX" ="Taxa";
+"TXT_BASE_PRICE" = "Preço base";
+"TXT_SURGE_PRICE" ="Preço dinâmico";
+"TXT_WALLET" ="Carteira";
+"TXT_MIN_FARE" = "Tarifa mínima";
+"TXT_APPLIED" = "Aplicado";
+
+
+"TXT_COMMENT_PLACEHOLDER" = "Escreva sobre sua experiência. Sempre ficamos felizes em ouvir você.";
+"TXT_SERVICE_PRICE" = "Preço do serviço";
+
+
+"TXT_PAYMENT_FAILED" = "Falha no pagamento";
+"MSG_PAYMENT_FAILED" = "Falha no seu pagamento por cartão. Por favor, selecione outro cartão.";
+"TXT_PAY_AGAIN" = "Pagamento";
+"TXT_COMMENTS" = "Comentários";
+
+
+//MARK:- Validation Message
+
+
+
+"VALIDATION_MSG_PLEASE_SELECT_VALID_PACKAGE" = "Por favor, insira um pacote válido.";
+
+"VALIDATION_MSG_ENTER_PHONE_NUMBER" = "Por favor, insira número de telefone";
+"VALIDATION_MSG_INVALID_PHONE_NUMBER_BETWEEN" = "Insira número de telefone entre %@ - %@";
+"VALIDATION_MSG_INVALID_PHONE_NUMBER" = "Insira %@ os dígitos do número de telefone";
+
+"VALIDATION_MSG_INVALID_PASSWORD" = "Por favor, insira uma senha válida.";
+"VALIDATION_MSG_ENTER_PASSWORD" = "Por favor, insira uma senha.";
+
+
+"VALIDATION_MSG_INVALID_EMAIL" = "Por favor, insira um email válido.";
+"VALIDATION_MSG_ENTER_EMAIL" = "Por favor, insira um email.";
+"VALIDATION_MSG_INVALID_REFERRAL_CODE"  = "Por favor, insira código de desconto";
+"VALIDATION_MSG_UNABLE_TO_CALL" = "Não foi possível realizar uma chamada";
+"VALIDATION_MSG_UNABLE_TO_MAIL" = "Não foi possível enviar uma mensagem";
+"TXT_PLEASE_SELECT_CARD_EXPIRY_DATE" = "Selecione uma data de validade";
+"VALIDATION_MSG_ENTER_VALID_CREDIT_CARD_NUMBER" = "Insira um número de cartão válido";
+"VALIDATION_MSG_ENTER_VALID_CVV_NUMBER" = "Insira um número de segurança válido";
+
+"VALIDATION_MSG_INVALID_CARD" = "Seu cartão é inválido";
+"VALIDATION_MSG_NO_CARD_SELECTED" = "Nenhum cartão selecionado";
+"VALIDATION_MSG_INVALID_AMOUNT" = "A quantia inseria é inválida";
+"VALIDATION_MSG_INVALID_REASON" = "Por favor, insira uma razão válida enter valid reason";
+"VALIDATION_MSG_INVALID_LOCATION" = "Localização selecionada é inválida";
+"VALIDATION_MSG_ENTER_CARD_HOLDER_NAME_FIRST" = "Por favor, adicione o nome do dono do cartão.";
+"VALIDATION_MSG_NO_OTHER_PAYMENT_MODE_AVAILABLE" = "Nenhum outro modo de pagamento está disponível nesta cidade.";
+"VALIDATION_MSG_RATE_PROVIDER" = "Por favor, dê ao menos uma nota";
+"VALIDATION_MSG_HOME_ADDRESS_NOT_AVAILABLE" = "Endereço de casa não está disponível. Por favor, adicione-o primeiro.";
+"VALIDATION_MSG_WORK_ADDRESS_NOT_AVAILABLE" = "Endereço de trabalho não está disponível. Por favor, adicione-o primeiro.";
+"VALIDATION_MSG_SELECT_DESTINATION_ADDRESS_FIRST" = "Por favor, selecione um destino primeiro antes de poder realizar uma viagem de tarifa fixa";
+"VALIDATION_MSG_PLEASE_SELECT_DATE_FIRST" = "Por favor, selecione uma data primeiro";
+"VALIDATION_MSG_PLEASE_ENTER_DOCUMENT_ID" = "Por favor, insira o número do documento";
+"VALIDATION_MSG_PLEASE_ENTER_DOCUMENT_EXP_DATE" = "Por favor, selecione a data de validade do documento";
+"VALIDATION_MSG_PLEASE_SELECT_DOCUMENT_IMAGE" = "Por favor, selecione a imagem do documento";
+
+"VALIDATION_MSG_ADD_CARD_FIRST" = "Por favor, adicione um cartão primeiro";
+"VALIDATION_MSG_VALID_AMOUNT" = "Por favor, insira uma quantia válida";
+
+"VALIDATION_MSG_PLEASE_ENTER_DESTINATION_FIRST" = "Por favor, selecione o endereço de destino primeiro para compartilhar seu destino";
+
+
+//MARK:- Message Code
+
+"MSG_CODE_0" = "Message Code Not Set";
+
+"MSG_CODE_1" = "Seu cadastro foi aprovado.";
+"MSG_CODE_2" = "Seu cadastro foi aprovado.";
+"MSG_CODE_18" = "Você se conectou com sucesso.";
+"MSG_CODE_4" = "Seu perfil foi atualizado com sucesso.";
+"MSG_CODE_20" = "Você se desconectou com sucesso.";
+"MSG_CODE_6" = "Seu cartão foi adicionado com sucesso.";
+"MSG_CODE_7" = "Cartões obtidos com sucesso.";
+"MSG_CODE_8" = "Seu cartão foi deletado com sucesso.";
+"MSG_CODE_9" = "Sua solicitação de viagem foi confirmada.";
+"MSG_CODE_10" = "Usuário obteve status de viagem.";
+"MSG_CODE_11" = "Sua viagem foi cancelada com sucesso.";
+"MSG_CODE_12" = "Seu código de desconto foi aplicado com sucesso.";
+"MSG_CODE_13" = "Código de desconto recusado.";
+"MSG_CODE_14" = "Histórico obtido com sucesso.";
+"MSG_CODE_15" = "Detalhes do histórico obtidos com sucesso.";
+"MSG_CODE_16" = "Usuário deu avaliação com sucesso.";
+"MSG_CODE_19" = "Seu perfil foi atualizado com sucesso..";
+"MSG_CODE_33" = "Obtendo seus dados.";
+"MSG_CODE_35" = "Lista de motoristas proximos obtida.";
+"MSG_CODE_36" = "Estimativa de tarifas obtidas.";
+"MSG_CODE_37" = "Seu código promocional foi aplicado com sucesso.";
+"MSG_CODE_46" = "Cartão desmarcado.";
+"MSG_CODE_45" = "Obteve seu cartão selecionado.";
+"MSG_CODE_43" = "Obteve suas viagens futuras com sucesso.";
+"MSG_CODE_44" = "Sua viagem foi marcada com sucesso.";
+"MSG_CODE_47" = "Obteve lista de documentos com sucesso.";
+"MSG_CODE_48" = "Seus documentos foram carregados com sucesso.";
+"MSG_CODE_49" = "Seus documentos foram atualizados com sucesso.";
+"MSG_CODE_42" = "Sua viagem foi marcada com sucesso.";
+"MSG_CODE_64" = "Seu destino foi atualizado com sucesso.";
+"MSG_CODE_62" = "Seu método de pagamento foi mudado com sucesso.";
+"MSG_CODE_52" = "Atualize o token do dispositivo.";
+"MSG_CODE_55" = "Obteve seu código promocional com sucesso.";
+"MSG_CODE_58" = "Sua viagem marcada foi cancelada com sucesso.";
+"MSG_CODE_63" = "Obteve lista de veículos com sucesso.";
+"MSG_CODE_91" = "Dinheiro adicionado a carteira com sucesso.";
+"MSG_CODE_77" = "Email enviando com sucesso.";
+"MSG_CODE_81" = "Senha resetada com sucesso.";
+"MSG_CODE_103" =  "Solicitação corporativa aceita com sucesso.";
+"MSG_CODE_104" =  "Solicitação corporativa rejeitada com sucesso.";
+"MSG_CODE_72" =  "Mensagem de SOS enviada com sucesso.";
+"MSG_CODE_106" = "Motorista favorito adicionado com sucesso";
+"MSG_CODE_107" = "Motorista favorito removido com sucesso";
+
+//MARK:- Error Codes
+
+"ERROR_CODE_401" = "Você já é um usuário registrado";
+"ERROR_CODE_402" = "Login ou senha errados.";
+"ERROR_CODE_403" = "Você não é um usuário registrado. Por favor, registre-se primeiro.";
+"ERROR_CODE_448" = "Você não está registrado com esta rede social.";
+"ERROR_CODE_404" = "Por favor, insira sua senha antiga.";
+"ERROR_CODE_405" = "Por favor, insira um token válido de pagamento.";
+"ERROR_CODE_406" = "Desculpe. Não foi possível encontrar motoristas para o serviço selecionado";
+"ERROR_CODE_407" = "Sem viagem.";
+"ERROR_CODE_408" = "Sua viagem já foi cancelada.";
+"ERROR_CODE_409" = "Não há viagens feitas até agora.";
+"ERROR_CODE_410" = "Dados da viagem do usuário não encontrados";
+"ERROR_CODE_411" = "Sua viagem não está completa.";
+"ERROR_CODE_415" = "Desculpe! O serviço não está disponível nesta área.";
+"ERROR_CODE_423" = "Desculpe! Você não pode recusar seu código de desconto";
+"ERROR_CODE_433" = "Por favor, insira uma senha válida.";
+"ERROR_CODE_434" = "Por favor, insira uma senha válida.";
+"ERROR_CODE_428" = "Nenhum motorista próximo encontrado para este serviço.";
+"ERROR_CODE_421" = "Nenhum tipo de serviço disponível.";
+"ERROR_CODE_442" = "Cartão não encontrado.";
+"ERROR_CODE_441" = "Cartão não encontrado.";
+"ERROR_CODE_445" = "Destino não selecionado.";
+"ERROR_CODE_435" = "Por favor, insira um cartão de crédito primeiro";
+"ERROR_CODE_436" = "Desculpe, nenhum código promocional disponível.";
+"ERROR_CODE_437" = "Viagem não encontrada.";
+"ERROR_CODE_438" = "Documento incompatível.";
+"ERROR_CODE_439" = "Documento incompatível.";
+"ERROR_CODE_440" = "Número do cartão incompatível.";
+"ERROR_CODE_422" = "Você já aplicou o código de desconto.";
+"ERROR_CODE_426" = "Não obtivemos informações do motorista.";
+"ERROR_CODE_427" = "Não obtivemos suas informações";
+"ERROR_CODE_429" = "Nenhum tipo de serviço encontrado.";
+"ERROR_CODE_424" = "Desculpe, sua tentativa de logout falhou.";
+"ERROR_CODE_446" = "Por favor, digite uma senha válida.";
+"ERROR_CODE_451" = "Token inválido.";
+"ERROR_CODE_454" = "Número da viagem egendada incompatível.";
+"ERROR_CODE_456" = "Você já está registrado com este número de telefone.";
+"ERROR_CODE_464" = "Seu último pagamento está pendente, por favor, entre em contato conosco.";
+"ERROR_CODE_1001" = "Não estamos disponíveis neste país.";
+"ERROR_CODE_1002" = "Não estamos disponíveis nesta cidade.";
+"ERROR_CODE_468" = "Você não pode adicionar mais contatos.";
+"ERROR_CODE_541" = "Por favor, insira um código promocional válido.";
+"ERROR_CODE_542" = "Este código promocional já foi utilizado.";
+"ERROR_CODE_544" = "O código promocional não pode ser aplicado na forma de pagamento escolhida.";
+"ERROR_CODE_543" = "Código promocional não disponível em seu país ou cidade.";
+"ERROR_CODE_545" = "O código promocional está inválido ou já expirou.";
+"ERROR_CODE_701" = "Falha ao adicionar dinheiro a carteira.";
+"ERROR_CODE_702" = "Falha ao alterar status da carteira.";
+"ERROR_CODE_801" = "Email não registrado.";
+"ERROR_CODE_804" = "Falhar ao atualizar o token do dispositivo";
+"ERROR_CODE_803" = "A viagem programa não foi encontrada";
+"ERROR_CODE_447" = "Sua senha está errada. Por favor, insira a senha correta. ";
+"ERROR_CODE_471" = "Falha ao adicionar contato de emergência.";
+"ERROR_CODE_472" = "Falha ao atualizar contato de emergência.";
+"ERROR_CODE_473" = "Falha ao deletar contato de emergência.";
+"ERROR_CODE_474" = "Dados do usuário não encontrados.";
+"ERROR_CODE_475" = "Falha ao deletar cartão.";
+"ERROR_CODE_477" = "Falha ao selecionar cartão.";
+"ERROR_CODE_478" = "Lista de documentos não encontradas.";
+"ERROR_CODE_481" = "Serviço de viagem não encontrado.";
+"ERROR_CODE_482" = "Documentos do usuário não encontrados.";
+"ERROR_CODE_483" = "Dados do usuário ou do motorista não encontrados.";
+"ERROR_CODE_484" = "Falha ao atualizar perfil.";
+"ERROR_CODE_485" = ">Falha ao tentar realizar pagamento.";
+"ERROR_CODE_487" = "Falha ao aplicar código de desconto.";
+"ERROR_CODE_491" = "Falha ao cancelar viagem.";
+"ERROR_CODE_493" = "Falha ao alterar status da viagem.";
+"ERROR_CODE_494" = "Falha ao atualizar destino.";
+"ERROR_CODE_495" = "Falha ao localizar motoristas próximos.";
+"ERROR_CODE_496" = "Falha ao obter tarifa estimada";
+"ERROR_CODE_897" = "O código de desconto do país do seu amigo não corresponde com o seu.";
+"ERROR_CODE_301" = "Seu cartão foi recusado ou o saldo dele é insuficiente. Por favor, adicione um novo cartão para viajar.";
+"ERROR_CODE_811" = "Idioma não encontrado.";
+"ERROR_CODE_812" = "Falha ao tentar criar viagem";
+"ERROR_CODE_497" = "Contato de emergência já adicionado.";
+"ERROR_CODE_467" = "Contato de emergência não encontrado. Por favor, adicione um primeiro.";
+"ERROR_CODE_470" = "Já se cadastrou com despachante.";
+"ERROR_CODE_453" = "Sem viagem.";
+"ERROR_CODE_459" = "Desculpe, não conseguimos adicionar o seu cartão. Por favor, tente novamente";
+"ERROR_CODE_420" = "Sua viagem não terminou ainda.";
+"ERROR_CODE_808" = "Já está registrado com uma conta social.";
+"ERROR_CODE_815" = "Falha na verificação do usuário";
+"ERROR_CODE_809" = "Histórico da carteira não encontrado";
+"ERROR_CODE_1003" = "Não estamos disponíveis nesta área.";
+"ERROR_CODE_1002" = "Não estamos disponíveis nesta cidade.";
+"ERROR_CODE_995" = "Viagem já está em progresso";
+
+"ERROR_CODE_0" = "Houve algum problema com o servidor";
+
+//MARK: - HTTP ERROR CODE
+"HTTP_ERROR_CODE_404" = "Endereço não encontrado\nFavor verificar a conexão coma a Internet";
+"HTTP_ERROR_CODE_502" = "Gateway inválido";
+"HTTP_ERROR_CODE_504" = "Tempo de espera do gateway excedido";
+"HTTP_ERROR_CODE_503" = "Serviço indisponível";
+"HTTP_ERROR_CODE_500" = "Erro interno do servidor";
+"HTTP_ERROR_CODE_408" = "Tempo de espera da solicitação excedido";
+"HTTP_ERROR_CODE_413" = "Tamanho da requisição excedido";
+"HTTP_ERROR_CODE_0" = "Algo errado aconteceu";
+
+
+"TXT_ON_GOING_TRIP" = "Viagem em progresso";
+"TXT_UP_COMING_TRIP" = "Viagens futuras";
+
+
+
+//Wallet Screen
+
+"TXT_WALLET_HISTORY" = "Histórico da carteira";
+"TXT_ID" = "ID ";
+
+"TXT_TOTAL_WALLET_AMOUNT" = "Dinheiro na carteira";
+"TXT_WALLET_HISTORY_DETAIL" = "Detalhes do histórido da carteira";
+
+"WALLET_STATUS_ADDED_BY_ADMIN" = "Adicionado por administrador";
+"WALLET_STATUS_ADDED_BY_CARD" = "Adicionado por cartão";
+"WALLET_STATUS_ADDED_BY_REFERRAL" = "Adicionado por desconto";
+"WALLET_STATUS_ORDER_CHARGED" = "Quantidade usada em viagem";
+"WALLET_STATUS_ORDER_REFUND" = "Quantidade de reembolso de viagem";
+"WALLET_STATUS_ORDER_PROFIT" = "Lucro de viagem";
+"WALLET_STATUS_ORDER_CANCELLATION_CHARGE" = "Taxa de cancelamento de viagem";
+"WALLET_STATUS_WALLET_REQUEST_CHARGE" = "Pedido de recarga da carteira";
+
+"TXT_AMOUNT_DEDUCTED" = "Quantidade deduzida";
+"TXT_AMOUNT_ADDED" = "Quantidade adicionada";
+
+//MARK:- Document VC
+
+"TXT_MANDATORY_FIELDS" = "* Documentos obrigatórios";
+"TXT_ENTER_ID_NUMBER" = "Insira número do seu documento";
+"TXT_ENTER_EXP_DATE" = "Insira data de emissão";
+
+"TXT_ID_NUMBER" = "Número: ";
+"TXT_EXP_DATE" = "Data de emissão : ";
+"TXT_SHARE" = "Compartilhar";
+"MSG_SHARE_ETA"="Eu chegarei em %@ com %@ em %@ min";
+"VALIDATION_MSG_ENTER_VALID_OTP" = "Insira um código de segurança válido";
+"MSG_PLEASE_ENTER_VALID_PASSWORD" = "Tamanho da senha deve ser %@";
+"TXT_SELECT_DATE" = "Selecione uma data";
+"TXT_SCHEDULE_TRIP" = "Agendar viagem";
+
+
+//MARK String Added 23/02/2019
+"TXT_CURRENT_PASSWORD" = "Senha atual";
+"TXT_TAP_TO_ADD_WORK_ADDRESS" = "Adicionar endereço de trabalho";
+"TXT_TAP_TO_ADD_HOME_ADDRESS" = "Adicionar endereço de casa";
+"TXT_BOOK_EDELIVERY" = "Cheque nosso serviço de entrega";
+"TXT_APP_PROMOTION_NAME" = "Edelivery";
+"TXT_APP_PROMOTION_DESCRIPTION" = "Peça comida, compras, flores?\nE-Delivery é um aplicativo de entrega sob demanda feito por nós.\nEspecialmente cobrindo todos os tipos de entrega no mercado, começando por comida, água e entrega de compras.";
+"TXT_GET_APP" = "Baixe o aplicativo";
+"TXT_MENU" = "Menu";
+"VALIDATION_MSG_PICKUP_ADDRESS_NOT_AVAILABLE" = "Por favor, selecione um endereço de partida primeiro.";
+"VALIDATION_MSG_ENTER_VALID_EXPIRY_DATE" = "Data de validade.";
+"TXT_HISTORY_NOT_FOUND" = "Histórico não disponível.";
+
+"TXT_EMPTY_HISTORY" = "Histórico!";
+"TXT_EMPTY_HISTORY_MSG" = "Nenhum histórico disponível";
+"ERROR_CODE_461" = "Código de desconto inválido";
+"ERROR_CODE_898" = "Código de desconto expirado";
+"ERROR_CODE_899" = "Usuário não aprovado";
+
+
+"TXT_FAVOURITE" = "Favorito";
+"TXT_FAVOURITE_DRIVER" = "Motorista favorito";
+"TXT_NO_FAVOURITE_DRIVER"  = "Nenhum motorista favorito";
+"TXT_ADD_DRIVER" = "Adicionar motorista";
+"TXT_ADD_FAVOURITE_DRIVER" = "Adicionar motorista favorito";
+"TXT_SEARCH" = "Procurar";
+"TXT_NO_DRIVER" = "Nenhum motorista encontrado";
+"MSG_PROMO_REMOVE_MESSAGE" = "Sua promoção pode se tornar nula após o método de pagamento mudar";
+"TITLE_PROMO_REMOVE_MESSAGE" = "Aviso de promoção";
+
+
+"ERROR_CODE_992" = "";
+"TXT_CHANGE_LANGUAGE" = "Alterar idioma";
+"TXT_ENTER_DRIVER_EMAIL_HERE" = "Digite o email do motorista aqui.";
+"TXT_NO_BOOKING" = "Sem reserva";
+"TRIP_STATUS_WAITING_FOR_ACCEPT" = "Aguardando aceitação";
