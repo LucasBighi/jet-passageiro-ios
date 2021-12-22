@@ -1,5 +1,5 @@
 
-name: CD
+name: Swift
 on:
   push:
     branches: [ main ]
